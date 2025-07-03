@@ -32,5 +32,4 @@ const userContainer = document.getElementById('user-container');
 }
 
 
-// Load users on initial page load
 fetchUsers();
